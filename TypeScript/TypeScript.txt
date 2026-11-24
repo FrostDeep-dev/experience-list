@@ -1,0 +1,30 @@
+ECMAScript	-> A especificação da linguagem
+JavaScript	-> A implementação mais famosa dessa especificação
+TypeScript	-> Uma extensão do JavaScript criada pela Microsoft
+
+Interface -> É o molde, diz como um objeto deve ser
+Objeto -> É como se fosse um funcionário de verdade (atv023)
+Classe -> É quem manipula os objetos
+Atributo -> Também chamado de propriedade, são as informações que pertencem ao objeto
+Método -> É uma ação da classe (tipo as funções da atv023)
+Parâmetro -> É a informação que entra na função
+Argumento -> É o valor passado quando a função é chamada
+Tipo(Tipagem) -> É o que uma variável pode armazenar
+Array -> Coleção de valores, Lista
+Índice -> é a posição dentro do array
+variável -> É um espaço para guardar uma informação
+Instância -> É o objeto funcionando (ex:const empresa = new Empresa() da atv023)
+Laço(for) -> Repeti uma ação
+Condição(if) -> Segue condições para ler uma parte do código
+Comparação -> Serve para verificar igualdade
+Atribuição -> Serve para alterar valores
+
+O que a função faz?
+
+Depois:
+
+O que ela precisa receber?
+
+Depois:
+
+O que ela devolve?
