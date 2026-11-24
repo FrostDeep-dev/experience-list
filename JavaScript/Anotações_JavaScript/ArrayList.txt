@@ -1,0 +1,4 @@
+push(elemento) -> Adiciona ao final
+unshift(elemento) -> Adiciona ao início
+splice(index, 0, elemento) -> Adiciona em uma posição específica
+concat(elemento) -> Cria um novo array sem modificar o original
