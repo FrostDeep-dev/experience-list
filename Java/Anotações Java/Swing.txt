@@ -1,0 +1,24 @@
+Componentes
+
+JFrame -> Janela principal do programa
+JLabel -> Exibe texto na tela
+JTextField -> Campo onde o usuário digita texto
+JButton -> Botão clicável
+WindowsConstants -> Classe que contém constantes usadas para configurar janelas
+
+JCheckBox (caixa de seleção)
+JRadioButton (escolha única)
+JComboBox (lista suspensa)
+JTextArea (texto multilinha)
+
+Métodos
+
+setSize() -> Define o tamanho da janela
+setDefaultCloseOperation-> Define o que ocorre ao fechar a janela
+setLayout(null) -> Desativa o posicionamento automático
+setBounds(x,y,largura,altura) -> Define posição e tamanho do componente
+setText("Olá") -> Define o texto exibido por um componente
+setVisible(true) -> Mostra a janela ou componente na tela
+addActionListener((e )->{ função(); }); -> Dar uma função ao botão(JButton)
+
+

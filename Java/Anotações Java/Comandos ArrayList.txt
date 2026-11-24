@@ -1,0 +1,41 @@
+ArrayList
+colocar item -> add()
+pegar item -> get()
+trocar item -> set()
+remover item -> remove()
+procurar item -> contains()
+descobrir posição -> indexOf()
+contar itens -> size()
+limpar caixa -> clear()
+verificar se está vazia	-> isEmpty()
+
+Regra prática MUITO útil
+
+break
+
+“pare o loop”
+
+continue
+
+“ignore o resto e recomece o loop”
+
+return
+
+“pare o método/programa”
+
+adicionar elementos = add()
+acessar elementos específicos = get()
+Retorna quantos elementos existem na lista = size()
+último string = lista.size()-1
+remover elementos da lista = remove()
+verificação da lista = contains()
+alterar elementos da lista = set(indice, novoValor)
+
+// Se você tem o nome da tarefa e quer saber o número da posição:
+int posicao = lista.indexOf("Estudar Java"); 
+System.out.println("A tarefa está na posição: " + posicao);
+
+
+
+
+Quando tiver uma String no if = equalsIgnoreCase() -> equals chama a variável, IgnoreCase ignora tamanho da letra
